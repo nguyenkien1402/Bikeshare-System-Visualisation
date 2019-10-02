@@ -22,6 +22,15 @@ Also, I have been published my entire project in this [link]:http://nguyenkien14
   
 Some screenshot takens
 
-Interactive Dashboard 
+### Interactive Dashboard 
 
 ![Dashboard](/images/dashboard.png)
+
+### Trip Animation Daylight
+![Trip_Daylight](/images/trip_animation_2.png)
+
+### Trip Animation at night
+![Trip_Night](/images/trip_animation_2.png)
+
+### Trip Traffic Between Stations
+![Trip_Traffic](/images/trip_animation_3.png)

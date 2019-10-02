@@ -20,3 +20,8 @@ The dataset is already consolidated,from station, weather and trip. You can foun
 
 Also, I have been published my entire project in this [link]:http://nguyenkien1402.shinyapps.io/bikeshare_app_submit
   
+Some screenshot takens
+
+Interactive Dashboard 
+
+![Dashboard](/images/dashboard.png)

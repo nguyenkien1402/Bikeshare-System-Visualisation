@@ -16,9 +16,9 @@ This project is the second part of the project. The first one above is about dat
 
 The project has been done with the collaboration of Shinny and D3.
 
-The dataset is already consolidated,from station, weather and trip. You can found the dataset from this [link]:(https://storage.cloud.google.com/data-visulisation/austin_bike_share.csv)
+The dataset is already consolidated,from station, weather and trip. You can found the dataset from this [link](https://storage.cloud.google.com/data-visulisation/austin_bike_share.csv)
 
-Also, I have been published my entire project in this [link]:(http://nguyenkien1402.shinyapps.io/bikeshare_app_submit)
+Also, I have been published my entire project in this [link](http://nguyenkien1402.shinyapps.io/bikeshare_app_submit)
   
 Some screenshot takens
 
